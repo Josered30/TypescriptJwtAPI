@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "src",
+        "types.d.ts"
+    ],
+    "ext": "ts",
+    "ignore": [
+        "src/**/*.spec.ts"
+    ],
+    "exec": "ts-node --files"
+}
